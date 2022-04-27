@@ -1,1 +1,1 @@
-# odin-recipes
+Hi! I am Sandeepan and this is my first project as a newbie web developer. This project includes a few recipes of my favourite food items which is displayed on a website.
